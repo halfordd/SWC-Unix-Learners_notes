@@ -1,0 +1,4 @@
+ls -la
+this is a test
+pwd
+cat /c/Workspace/Repositories/SWC-Unix-Learners_notes_Nov2023/commands.txt 
