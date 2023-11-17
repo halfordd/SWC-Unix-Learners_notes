@@ -5,3 +5,6 @@ cat /c/Workspace/Repositories/SWC-Unix-Learners_notes_Nov2023/commands.txt
 cat /c/Workspace/Repositories/SWC-Unix-Learners_notes_Nov2023/commands.txt 
 cd /c/
 ls
+cd ~
+ls
+cd Desktop/
