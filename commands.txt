@@ -11,3 +11,6 @@ cd Desktop/
 cd shell-lesson-data
 ls
 ls -l
+ls
+cd ~
+ls
