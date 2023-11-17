@@ -15,3 +15,27 @@ ls
 cd ~
 ls
 ls
+cd Desktop/
+ls
+cd shell-lesson-data
+ls
+ls -l
+ls -la
+ls -R
+pwd
+cd exercise-data
+cd ..
+cd /c/Users/ndintzner/Desktop/shell-lesson-data/exercise-d2ta
+cd /c/Users/ndintzner/Desktop/shell-lesson-data/exercise-data/
+cd ~
+ls
+ls -a
+ls
+ls --help
+info ls
+ls Desktop/
+ls
+clear
+ls
+ls -F
+cd Desktop/
