@@ -8,3 +8,6 @@ ls
 cd ~
 ls
 cd Desktop/
+cd shell-lesson-data
+ls
+ls -l
