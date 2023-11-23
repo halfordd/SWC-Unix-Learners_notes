@@ -18,3 +18,9 @@ ls
 ls -a
 ls --help
 ls -la
+ls -a -l
+cd shell-lesson-data
+pwd
+ls
+cd /c/Users/ndintzner/Desktop/shell-lesson-data
+cd ..
