@@ -1,1 +1,85 @@
 ls
+tee --help
+ls
+nano creature_info.sh 
+sh creature_info.sh 
+nano creature_info.sh 
+pwd
+nano creature_info.sh 
+sh creature_info.sh 
+nano creature_info.sh 
+sh creature_info.sh 
+ls
+nano creature_info.sh 
+sh creature_info.sh 
+sh creature_info.sh asd asd asd asd sdkjhsdf asd 
+nano creature_info.sh 
+sh creature_info.sh first_param second_param 
+sh creature_info.sh second_param first_param
+nano creature_info.sh 
+sh creature_info.sh *.dat
+nano creature_info.sh 
+ls *.dat
+nano creature_info.sh 
+sh creature_info.sh *.dat
+sh creature_info.sh "*.dat"
+nano creature_info.sh 
+ls
+cd ..
+ls
+cd ..
+ls
+mkdir python
+cd python
+nano module_1.py
+python module_1.py 
+nano start_up.sh 
+sh start_up.sh 
+nano start_up.sh 
+sh start_up.sh 
+nano start_up.sh 
+ls
+nano module_1.py 
+sh start_up.sh param_1_please
+nano module_1.py 
+sh start_up.sh param_1_please
+nano module_1.py 
+nano main.py 
+python main.py 
+nano module_1.py 
+python m
+python main.py 
+nano main.py 
+nano module_1.py 
+python module_1.py 
+python main.py 
+nano module_1.py 
+python module_1.py 
+nano module_1.py 
+python module_1.py 
+nano module_1.py 
+python main.py 
+nano module_1.py 
+python module_1.py 
+python main.py 
+python module_1.py 
+nano module_1.py 
+python main.py 
+mv main.py starting_point.py
+python start_up.sh 
+python starting_point.py 
+python module_1.py 
+nano module_1.py 
+cat start_up.sh 
+cd /c/Workspace/Repositories/
+git clone https://github.com/NLeSC/python-template.git 
+cd python-template/
+ls
+python -m pip install --user --upgrade cookiecutter
+python -m pip install --user --upgrade cookiecutter
+cookiecutter https://github.com/nlesc/python-template.git
+ls
+sudo 
+sh sudo
+cd /c/
+ls
