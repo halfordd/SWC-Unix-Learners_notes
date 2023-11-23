@@ -16,3 +16,4 @@ cd Desktop
 pwd
 ls
 ls -a
+ls --help
