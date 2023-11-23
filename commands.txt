@@ -14,3 +14,4 @@ echo $PATH
 ls
 cd Desktop
 pwd
+ls
