@@ -26,3 +26,5 @@ cd /c/Users/ndintzner/Desktop/shell-lesson-data
 cd ..
 ls -la
 cd ..
+ls -la
+cd Desktop/shell-lesson-data
