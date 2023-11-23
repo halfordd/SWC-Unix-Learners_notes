@@ -28,3 +28,4 @@ ls -la
 cd ..
 ls -la
 cd Desktop/shell-lesson-data
+ls -R
