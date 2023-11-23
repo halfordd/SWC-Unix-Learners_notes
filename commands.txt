@@ -2,3 +2,15 @@ pwd
 ls
 clear
 ls
+pwd
+ls
+ls -F
+ls -f
+ls-f
+ld 
+ls -F
+name_prog 
+echo $PATH
+ls
+cd Desktop
+pwd
