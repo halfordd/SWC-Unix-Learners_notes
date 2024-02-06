@@ -1,4 +1,5 @@
-# SWC-Unix-Learners_notes_Nov2023
-Template Git Repo for the learner's notes for the Unix Lesson of Software Carpentries at TU Delft.
+# SWC-Unix-Learners_notes
 
-Create and edit a branch for each session.
+This repository holds the command log for the Unix Shell lesson at TU Delft on 7 Feb 2024
+
+The command log is in commands.txt
