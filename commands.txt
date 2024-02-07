@@ -155,3 +155,4 @@ ls
 cd exercise-data/
 clear
 ls
+ls alkanes
