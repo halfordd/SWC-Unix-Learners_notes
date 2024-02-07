@@ -193,3 +193,5 @@ ls
 wc -l *.pdb
 wc -l *.pdb | sort -n
 wc -l *.pdb | sort -n | head -n 1
+cd ../animal-counts/
+ls
