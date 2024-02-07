@@ -18,3 +18,4 @@ ls --color
 ls --help
 ls -l
 ls -a
+la -la
