@@ -230,3 +230,4 @@ grep -E "^.o" haiku.txt
 cd ..
 ls
 cd animal-counts/
+ls
