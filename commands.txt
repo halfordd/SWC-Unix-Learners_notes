@@ -21,3 +21,4 @@ ls -a
 la -la
 ls -la
 ./ohai.py 
+cd SCW
