@@ -43,3 +43,106 @@ cd ~/SCW
 cd shell-lesson-data/shell-lesson-data/
 clear
 ls -l ~/SCW
+ls --help
+ls
+ls ~
+clear
+ls
+cd exercise-data/
+ls -l
+ls -S
+ls -s
+ls -l
+ls -l ~
+ls -l
+ls -l alkanes/
+cd..
+clear
+ls
+ls alkanes
+ls ./alkanes/
+ls /Users/hdace
+ls /c/Users/hdace/
+ls c/Users/hdace/
+PWD
+ls ..
+ls ../..
+ls ../../..
+ls ../../../..
+cd
+clear
+cd SCW/
+ls
+ls shell-lesson-data
+pwd
+mkdir shelldata
+ls
+lsls sh
+ls shell-lesson-data/shell-lesson-data/
+mv shell-lesson-data/shell-lesson-data/* shelldata/
+ls shell-lesson-data/shell-lesson-data/
+ls shelldata/
+ls -R shelld
+ls -R shelldata/
+pwd
+ls
+clear
+pwd
+cd shelldata/
+ls
+cd exercise-data/
+ls
+cd writing/
+ls
+ls -l
+clear
+pwd
+mkdir thesis
+ls
+ls thesis
+cd thesis
+clear
+nano draft.txt
+cat draft.txt 
+touch empty.txt
+ls -l
+ls -l
+touch empty.txt 
+ls -l
+ls ~
+ls -l ~
+touch ~/survey.db 
+ls -l ~
+ls -l
+touch draft.txt 
+nano draft.txt 
+nano ~/survey.db 
+clear
+ls
+mv ./draft.txt ./quotes.txt
+ls
+mv quotes.txt quotes2.txt
+ls
+mv quotes2.txt quotes.txt
+ls
+ls
+mv quotes.txt ..
+ls
+rm empty.txt 
+cd ..
+ls
+cp quotes.txt thesis/quotations.txt
+ls
+ls thesis/
+cat quotes.txt 
+cat thesis/quotations.txt 
+cp -r thesis thesis-backup
+ls
+ls thesis
+ls thesis-backup/
+cd ..
+ls
+ls creatures/
+cd
+nano "my file.txt"
+ls
