@@ -38,3 +38,4 @@ ls
 cd
 clear
 cd 
+cd /proc/net
