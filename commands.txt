@@ -173,3 +173,4 @@ cat numbers.txt
 sort -n numbers.txt 
 sort --help
 sort -n numbers.txt > sorted.txt
+cat sorted.txt 
