@@ -19,3 +19,4 @@ ls --help
 ls -l
 ls -a
 la -la
+ls -la
