@@ -192,3 +192,4 @@ cat sorted_lengths.txt
 ls
 wc -l *.pdb
 wc -l *.pdb | sort -n
+wc -l *.pdb | sort -n | head -n 1
