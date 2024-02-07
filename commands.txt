@@ -177,3 +177,4 @@ cat sorted.txt
 sort numbers.txt 
 cd alkanes/
 cat lengths.txt 
+sort -n lengths.txt 
