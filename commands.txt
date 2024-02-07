@@ -13,3 +13,4 @@ ls
 lq
 echo $SHELL
 ls
+pwd
