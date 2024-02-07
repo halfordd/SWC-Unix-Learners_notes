@@ -246,3 +246,5 @@ nano process.py
 ls
 python process.py
 ./process.py
+nano process.py 
+./process.py 
