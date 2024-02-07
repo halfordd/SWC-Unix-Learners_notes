@@ -40,3 +40,5 @@ clear
 cd 
 cd /proc/net
 cd ~/SCW
+cd shell-lesson-data/shell-lesson-data/
+clear
