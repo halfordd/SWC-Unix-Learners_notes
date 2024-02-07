@@ -24,3 +24,5 @@ ls -la
 cd SCW
 ls
 ls ..
+lsls
+ls
