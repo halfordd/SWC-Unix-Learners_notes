@@ -198,3 +198,4 @@ ls
 cat animals.csv 
 cat animals.csv | head -n 5
 cat animals.csv | head -n 5 | tail -n 3
+cat animals.csv | head -n 5 | tail -n 3 | sort -r
