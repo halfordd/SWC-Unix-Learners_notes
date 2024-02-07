@@ -181,3 +181,4 @@ sort -n lengths.txt
 sort -n lengths.txt > sorted_lengths.txt
 cat sorted_lengths.txt 
 head -n 1 sorted_lengths.txt 
+head -n 5 sorted_lengths.txt 
