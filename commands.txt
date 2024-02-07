@@ -6,3 +6,4 @@ ls
 cd shell-lesson-data
 ls
 cd shell-lesson-data/
+clear
