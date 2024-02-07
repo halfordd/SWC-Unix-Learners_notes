@@ -165,3 +165,4 @@ wc -l
 wc -l *.pwd
 wc -l *.pdb
 wc -l *.pdb > lengths.txt
+cat lengths.txt 
