@@ -167,3 +167,5 @@ wc -l *.pdb
 wc -l *.pdb > lengths.txt
 cat lengths.txt 
 pwd
+cd ..
+ls
