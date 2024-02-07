@@ -28,3 +28,4 @@ lsls
 ls
 cd shell-lesson-data
 pwd
+ls -la
