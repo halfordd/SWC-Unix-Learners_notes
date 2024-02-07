@@ -27,3 +27,4 @@ ls ..
 lsls
 ls
 cd shell-lesson-data
+pwd
