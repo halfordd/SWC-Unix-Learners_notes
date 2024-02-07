@@ -175,3 +175,4 @@ sort --help
 sort -n numbers.txt > sorted.txt
 cat sorted.txt 
 sort numbers.txt 
+cd alkanes/
