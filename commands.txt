@@ -212,3 +212,4 @@ cd exercise-data/writing/
 cat haiku.txt 
 grep not haiku.txt 
 grep The haiku.txt 
+grep -w The haiku.txt 
