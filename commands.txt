@@ -154,3 +154,4 @@ cd SCW/shelldata/
 ls
 cd exercise-data/
 clear
+ls
