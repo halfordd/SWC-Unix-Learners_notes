@@ -171,3 +171,4 @@ cd ..
 ls
 cat numbers.txt
 sort -n numbers.txt 
+sort --help
