@@ -210,3 +210,4 @@ clear
 cd ~/SCW/shelldata/
 cd exercise-data/writing/
 cat haiku.txt 
+grep not haiku.txt 
