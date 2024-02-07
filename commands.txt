@@ -244,3 +244,4 @@ cd SCW/shelldata/exercise-data/writing/
 ls
 nano process.py
 ls
+python process.py
