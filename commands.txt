@@ -240,3 +240,5 @@ clear
 cd
 which python
 cd
+cd SCW/shelldata/exercise-data/writing/
+ls
