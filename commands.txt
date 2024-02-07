@@ -30,3 +30,4 @@ cd shell-lesson-data
 pwd
 ls -la
 cd shell-lesson-data/
+ls
