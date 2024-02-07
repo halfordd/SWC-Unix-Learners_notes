@@ -39,3 +39,4 @@ cd
 clear
 cd 
 cd /proc/net
+cd ~/SCW
