@@ -36,3 +36,4 @@ ls
 cd ..
 ls
 cd
+clear
