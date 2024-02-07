@@ -234,3 +234,4 @@ ls
 cat animals.csv 
 cat animals.csv | cut -d : -f 2
 cd /c/Users/hdace/Documents/RDM101/
+ls
