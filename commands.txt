@@ -11,3 +11,4 @@ cd
 clear
 ls
 lq
+echo $SHELL
