@@ -274,3 +274,4 @@ nano middle.sh
 bash middle.sh LittleWomen.txt 20 6
 head -n 20 LittleWomen.txt 
 bash middle.sh LittleWomen.txt 20 6
+nano middle.sh
