@@ -253,3 +253,5 @@ which python3
 which python
 nano process.py 
 ./process.py 
+nano process.py 
+./process.py 
