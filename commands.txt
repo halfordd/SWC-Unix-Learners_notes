@@ -214,3 +214,4 @@ grep not haiku.txt
 grep The haiku.txt 
 grep -w The haiku.txt 
 grep -w "is not" haiku.txt 
+grep "The " haiku.txt 
