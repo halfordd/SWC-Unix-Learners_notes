@@ -220,3 +220,5 @@ grep -n -w "the" haiku.txt
 grep -n -w -i "the" haiku.txt 
 grep -n -w -v "the" haiku.txt 
 grep \ -w -v "the" haiku.txt 
+grep \ -w -v "the" haiku.txt 
+grep  -w -v "the" haiku.txt 
