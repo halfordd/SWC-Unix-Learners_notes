@@ -231,3 +231,4 @@ cd ..
 ls
 cd animal-counts/
 ls
+cat animals.csv 
