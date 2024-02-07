@@ -202,3 +202,4 @@ cat animals.csv | head -n 5 | tail -n 3 | sort -r
 cat animals.csv | head -n 5 | tail -n 3 | sort -r > final.txt
 cat final.txt
 cut -d , -f 2 animals.csv 
+cut -d , -f 2 animals.csv | uniq
