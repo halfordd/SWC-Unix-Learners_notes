@@ -169,3 +169,4 @@ cat lengths.txt
 pwd
 cd ..
 ls
+cat numbers.txt
