@@ -163,3 +163,4 @@ wc *.pdb
 wc -l *.pdb
 wc -l
 wc -l *.pwd
+wc -l *.pdb
