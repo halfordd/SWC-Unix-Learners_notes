@@ -209,3 +209,4 @@ cut -d , -f 2 animals.csv | sort | uniq -d
 clear
 cd ~/SCW/shelldata/
 cd exercise-data/writing/
+cat haiku.txt 
