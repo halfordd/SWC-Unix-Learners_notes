@@ -157,3 +157,4 @@ clear
 ls
 ls alkanes
 ls -l alkanes/
+cd alkanes/
