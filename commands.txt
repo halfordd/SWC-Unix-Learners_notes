@@ -205,3 +205,4 @@ cut -d , -f 2 animals.csv
 cut -d , -f 2 animals.csv | uniq
 cut -d , -f 2 animals.csv | sort | uniq
 cut -d , -f 2 animals.csv | sort
+cut -d , -f 2 animals.csv | sort | uniq -d
