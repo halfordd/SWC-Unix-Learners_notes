@@ -239,3 +239,4 @@ nano TU\ Delft\ Research\ Data\ Framework\ Policy_June\ 2020.pdf
 clear
 cd
 which python
+cd
