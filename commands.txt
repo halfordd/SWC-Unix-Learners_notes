@@ -248,3 +248,4 @@ python process.py
 ./process.py
 nano process.py 
 ./process.py 
+ls -l
