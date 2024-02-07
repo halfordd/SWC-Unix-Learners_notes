@@ -226,3 +226,4 @@ grep -n -w -v "the" haiku.txt
 grep -n -w  "the" haiku.txt 
 ls
 grep -r Yesterday .
+grep -E "^.o" haiku.txt 
