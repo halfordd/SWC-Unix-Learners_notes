@@ -12,3 +12,4 @@ clear
 ls
 lq
 echo $SHELL
+ls
