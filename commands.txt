@@ -232,3 +232,4 @@ ls
 cd animal-counts/
 ls
 cat animals.csv 
+cat animals.csv | cut -d : -f 2
