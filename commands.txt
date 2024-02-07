@@ -260,3 +260,5 @@ nano process.py
 ./process.py haiku.txt 
 ./process.py 
 nano process.py 
+./process.py 
+./process.py haiku.txt 
