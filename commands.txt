@@ -8,3 +8,4 @@ ls
 cd shell-lesson-data/
 clear
 cd
+clear
