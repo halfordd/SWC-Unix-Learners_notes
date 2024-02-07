@@ -33,3 +33,5 @@ cd shell-lesson-data/
 ls
 cd exercise-data/
 ls
+cd ..
+ls
