@@ -17,3 +17,4 @@ pwd
 ls --color
 ls --help
 ls -l
+ls -a
