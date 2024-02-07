@@ -249,3 +249,5 @@ python process.py
 nano process.py 
 ./process.py 
 ls -l
+which python3
+which python
