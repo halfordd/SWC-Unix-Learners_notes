@@ -14,3 +14,4 @@ lq
 echo $SHELL
 ls
 pwd
+ls --color
