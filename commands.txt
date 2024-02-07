@@ -3,3 +3,6 @@ ls
 clear
 cd SCW
 ls
+cd shell-lesson-data
+ls
+cd shell-lesson-data/
