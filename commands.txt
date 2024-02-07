@@ -237,3 +237,4 @@ cd /c/Users/hdace/Documents/RDM101/
 ls
 nano TU\ Delft\ Research\ Data\ Framework\ Policy_June\ 2020.pdf 
 clear
+cd
