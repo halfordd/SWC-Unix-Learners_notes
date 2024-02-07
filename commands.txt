@@ -279,3 +279,4 @@ nano middle.sh
 nano middle.sh
 ls -l
 chmod u+x middle.sh 
+exit
